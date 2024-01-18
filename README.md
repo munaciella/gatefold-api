@@ -56,9 +56,10 @@ Frontend Repository
 The frontend code for this project can be found in the https://github.com/munaciella/gatefold-frontend.
 
 Authors
-Jordan Watson
-Hudaifa Temsamani Daoudi
-Ari Abendstern
-Francesco Vurchio
-Karo Barari
-Roshan Roy
+[](https://www.linkedin.com/in/jordan-watson-13884aba/)https://www.linkedin.com/in/jordan-watson-13884aba/
+https://www.linkedin.com/in/hudaifa-tem/
+[
+](https://www.linkedin.com/in/ari-abendstern)https://www.linkedin.com/in/ari-abendstern
+https://www.linkedin.com/in/francesco-vurchio/
+https://www.linkedin.com/in/karo-barari-2a0947293/
+https://uk.linkedin.com/in/roshrr
