@@ -5,7 +5,7 @@ Wax Backend
 Run Locally
 Clone the project
 
-  git clone https://github.com/munaciella/gatefold-api
+  ``git clone https://github.com/munaciella/gatefold-api``
   
 Go to the project directory
 
